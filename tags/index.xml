@@ -4,6 +4,43 @@
     <title>Tags on Zainab&#39;s Blog</title>
     <link>https://zlateef.me/tags/</link>
     <description>Recent content in Tags on Zainab&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zlateef.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Feb 2023 13:50:42 +0000</lastBuildDate><atom:link href="https://zlateef.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://zlateef.me/tags/about/</link>
+      <pubDate>Sat, 18 Feb 2023 13:50:42 +0000</pubDate>
+      
+      <guid>https://zlateef.me/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://zlateef.me/tags/me/</link>
+      <pubDate>Sat, 18 Feb 2023 13:50:42 +0000</pubDate>
+      
+      <guid>https://zlateef.me/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://zlateef.me/tags/blog/</link>
+      <pubDate>Sat, 18 Feb 2023 13:50:21 +0000</pubDate>
+      
+      <guid>https://zlateef.me/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://zlateef.me/tags/hello/</link>
+      <pubDate>Sat, 18 Feb 2023 13:50:21 +0000</pubDate>
+      
+      <guid>https://zlateef.me/tags/hello/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

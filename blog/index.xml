@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Zainab&#39;s Blog</title>
+    <link>https://zlateef.me/blog/</link>
+    <description>Recent content in Blogs on Zainab&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Feb 2023 13:50:21 +0000</lastBuildDate><atom:link href="https://zlateef.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_world</title>
+      <link>https://zlateef.me/blog/hello_world/</link>
+      <pubDate>Sat, 18 Feb 2023 13:50:21 +0000</pubDate>
+      
+      <guid>https://zlateef.me/blog/hello_world/</guid>
+      <description>Hello World </description>
+    </item>
+    
+  </channel>
+</rss>
