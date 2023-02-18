@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zlateef.me/tags/about/</loc>
-    <lastmod>2023-02-18T13:50:42+00:00</lastmod>
-  </url><url>
-    <loc>https://zlateef.me/page/about/</loc>
-    <lastmod>2023-02-18T13:50:42+00:00</lastmod>
-  </url><url>
-    <loc>https://zlateef.me/tags/me/</loc>
-    <lastmod>2023-02-18T13:50:42+00:00</lastmod>
-  </url><url>
-    <loc>https://zlateef.me/page/</loc>
-    <lastmod>2023-02-18T13:50:42+00:00</lastmod>
-  </url><url>
-    <loc>https://zlateef.me/tags/</loc>
-    <lastmod>2023-02-18T13:50:42+00:00</lastmod>
-  </url><url>
-    <loc>https://zlateef.me/</loc>
-    <lastmod>2023-02-18T13:50:42+00:00</lastmod>
-  </url><url>
     <loc>https://zlateef.me/tags/blog/</loc>
     <lastmod>2023-02-18T13:50:21+00:00</lastmod>
   </url><url>
@@ -32,6 +14,20 @@
     <loc>https://zlateef.me/blog/hello_world/</loc>
     <lastmod>2023-02-18T13:50:21+00:00</lastmod>
   </url><url>
+    <loc>https://zlateef.me/tags/</loc>
+    <lastmod>2023-02-18T13:50:21+00:00</lastmod>
+  </url><url>
+    <loc>https://zlateef.me/</loc>
+    <lastmod>2023-02-18T13:50:21+00:00</lastmod>
+  </url><url>
+    <loc>https://zlateef.me/tags/about/</loc>
+  </url><url>
+    <loc>https://zlateef.me/page/about/</loc>
+  </url><url>
     <loc>https://zlateef.me/categories/</loc>
+  </url><url>
+    <loc>https://zlateef.me/tags/me/</loc>
+  </url><url>
+    <loc>https://zlateef.me/page/</loc>
   </url>
 </urlset>
